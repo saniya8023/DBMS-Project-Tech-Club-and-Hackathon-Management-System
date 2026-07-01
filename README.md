@@ -1,4 +1,4 @@
-# FOUND_CLUB_HACKATHON_WORLD
+# FOUND_CLUB_HACKATHON
 
 
 ---
@@ -11,7 +11,7 @@ DEPLOY LINK : https://foundclubhackathonworld-7rxcpwjhrm7qnqvgqsfway.streamlit.a
 
 ---
 
-## 🚀 Key Features
+## Key Features
 
 ### 👨‍💼 Admin Dashboard
 
@@ -38,7 +38,7 @@ The system architecture utilizes a centralized relational database to manage com
 
 ---
 
-## 🛠️ Technical Architecture
+## Technical Architecture
 
 ### **Database Schema & Constraints**
 
@@ -57,7 +57,7 @@ The system follows a normalized schema to minimize redundancy. Key SQL principle
 
 ---
 
-## 📋 Logical Flows
+## Logical Flows
 
 ### **1. Team Formation (Max 3 Members)**
 
@@ -73,7 +73,7 @@ Before a project submission is finalized, the system performs a multi-step valid
 
 ---
 
-## 💻 How to Run
+## How to Run
 
 1. **Clone the repository:**
 ```bash
